@@ -1,4 +1,4 @@
----?image=images/background-terraform.png
+---?image=slides/images/background-terraform.png
 
 @snap[montserrat-heavy h2-white]
 ## @css[text-85](Coming Features)
@@ -6,7 +6,7 @@
 
 You we're so close
 
-+++?image=images/background-white.png
++++?image=slides/images/background-white.png
 
 @snap[montserrat-heavy h2-black]
 ## @css[text-85](`for_each` iterator)
@@ -22,7 +22,7 @@ resource "azurerm_subnet" "module" {
 }
 ```
 
-+++?image=images/background-white.png
++++?image=slides/images/background-white.png
 
 @snap[montserrat-heavy h2-black]
 ## @css[text-85](JSON plan)

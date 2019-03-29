@@ -1,4 +1,4 @@
----?image=images/background-terraform.png
+---?image=slides/images/background-terraform.png
 
 @snap[montserrat-heavy h2-white]
 ## @css[text-85](Generalized Splat `*`)
@@ -6,13 +6,13 @@
 
 The special resource.*.field syntax now works for any list value
 
-+++?image=images/background-white.png
++++?image=slides/images/background-white.png
 
 @snap[montserrat-heavy h2-black]
 ## @css[text-85](Sub 1)
 @snapend
 
-+++?image=images/background-white.png
++++?image=slides/images/background-white.png
 
 @snap[montserrat-heavy h2-black]
 ## @css[text-85](Sub 2)

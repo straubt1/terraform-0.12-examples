@@ -1,10 +1,10 @@
----?image=images/background-black.png
+---?image=slides/images/background-black.png
 
 @snap[montserrat-heavy h2-white]
 ## @css[text-85](Questions?)
 @snapend
 
-+++?image=images/background-white.png
++++?image=slides/images/background-white.png
 
 @snap[montserrat-heavy h2-black]
 ## @css[text-85](Resources)

@@ -1,7 +1,7 @@
----?image=images/background-black.png
+---?image=slides/images/background-black.png
 @title[Introduction]
 
-![TIP](images/terraform.png)
+![TIP](slides/images/terraform.png)
 @snap[montserrat-heavy h2-white]
 ## @css[text-85](Version 0.12)
 ## @css[text-85](and beyond...)

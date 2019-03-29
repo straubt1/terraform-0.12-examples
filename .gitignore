@@ -1,0 +1,5 @@
+*.pptx
+secrets.md
+.terraform/
+*.tfstate*
+*.foo

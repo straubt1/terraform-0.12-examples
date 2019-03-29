@@ -1,1 +1,1 @@
-theme-override : template/css/PITCHME.css
+theme-override : slides/css/PITCHME.css

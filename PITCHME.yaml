@@ -1,1 +1,2 @@
 theme-override : slides/css/PITCHME.css
+transition: convex

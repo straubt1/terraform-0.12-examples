@@ -1,9 +1,3 @@
----?image=slides/images/background-white.png
-
-@snap[montserrat-heavy h2-black]
-## @css[text-85](Whom am I?)
-@snapend
-
 ---?image=slides/images/background-terraform.png
 
 @snap[montserrat-heavy h2-white]

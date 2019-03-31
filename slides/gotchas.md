@@ -4,10 +4,18 @@
 ## @css[text-85](Gotchas)
 @snapend
 
-You can't do what now?
+> @color[white](You can't do what now?)
 
 +++?image=slides/images/background-white.png
 
-- `count` can no longer be used a variable name.
-- Resource names cannot start with a number, though they can still contain numbers. 
+@snap[montserrat-heavy h2-black]
+## @css[text-85](Challenges)
+@snapend
+
+@snap[]
+@ul
+- @color[red](count) can no longer be used a variable name
+- Resource names cannot start with a number
 - File must end in new line
+@ulend
+@snapend

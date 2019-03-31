@@ -6,6 +6,12 @@
 
 +++?image=slides/images/background-white.png
 
-- Application & Infrastructure Practice Manager
+## @css[text-85](Tom Straub)
+<br>
+- App & Infra Practice Manager
+- Terraform **Advance** Certification
+- HashiCorp Professional Services Program
 - [github.com/straubt1](github.com/straubt1)
-- <Tom.Straub@insight.com>
+
+Note:
+<https://www.hashicorp.com/blog/introducing-the-hashicorp-professional-service-prog>

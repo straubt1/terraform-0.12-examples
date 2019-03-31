@@ -10,6 +10,8 @@
 ## @css[text-85](Resources)
 @snapend
 
+<https://github.com/straubt1/terraform-0.12-examples>
+
 <https://learn.hashicorp.com/terraform/>
 
-<https://www.hashicorp.com/resources/what-new-in-terraform-0-12>
+<https://www.hashicorp.com/blog>

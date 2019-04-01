@@ -4,7 +4,7 @@
 ## @css[text-85](Generalized Splat `*`)
 @snapend
 
-> @color[white](The special resource.*.field syntax now works for any list value)
+> @color[white](The special resource[*].field syntax now works for any list value)
 
 +++?image=slides/images/background-white.png
 

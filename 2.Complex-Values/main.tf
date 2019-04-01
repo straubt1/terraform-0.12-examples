@@ -64,5 +64,5 @@ resource "azurerm_subnet" "module" {
 # }
 
 # output "subnets-address_prefix" {
-#   value = azurerm_subnet.module.*.address_prefix
+#   value = azurerm_subnet.module[*].address_prefix
 # }

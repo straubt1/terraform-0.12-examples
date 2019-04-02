@@ -16,6 +16,5 @@
 @ul
 - @color[red](count) can no longer be used a variable name
 - Resource names cannot start with a number
-- File must end in new line
 @ulend
 @snapend

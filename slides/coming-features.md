@@ -34,13 +34,3 @@ resource "azurerm_subnet" "module" {
 @[12-13](each.)
 @[*]()
 @snapend
-
-+++?image=slides/images/background-white.png
-
-@snap[montserrat-heavy h2-black]
-## @css[text-85](JSON plan)
-@snapend
-
-```
-terraform plan -out=plan.json
-```

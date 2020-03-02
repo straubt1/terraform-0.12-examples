@@ -19,9 +19,7 @@ Note:
 
 @snap[montserrat-heavy h2-black]
 ## @css[text-85](HCL2)
-@snapend
 
-@snap[]
 @ul
 - 4 years since last major update
 - Lacking some features -> Clunky workarounds

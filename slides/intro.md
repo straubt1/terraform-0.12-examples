@@ -35,9 +35,7 @@ Note:
 
 @snap[montserrat-heavy h2-black]
 ## @css[text-85](Terraform)
-@snapend
 
-@snap[]
 @ul
 - Breaking changes
 - Delayed release

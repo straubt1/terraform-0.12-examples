@@ -8,9 +8,9 @@
 
 ## @css[text-85](Tom Straub)
 <br>
-- App & Infra Practice Manager
+- Lead Senior Implementation Services Engineer
 - Terraform **Advance** Certification
-- HashiCorp Professional Services Program
+- [tstraub@hashicorp.com](tstraub@hashicorp.com)
 - [github.com/straubt1](github.com/straubt1)
 
 Note:

@@ -11,7 +11,7 @@
 
 ---?include=slides/intro.md
 
----?include=slides/getting-started.md
+<!-- ---?include=slides/getting-started.md -->
 
 ---?include=slides/first-class-expressions.md
 

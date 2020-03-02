@@ -4,7 +4,7 @@ variable "dates" {
     month     = number
     year      = number
     isHoliday = bool
-    name = string
+    name      = string
   }))
 
   default = [{
@@ -12,28 +12,28 @@ variable "dates" {
     month     = 1
     year      = 2019
     isHoliday = true
-    name = "New Years Day"
+    name      = "New Years Day"
     },
     {
       day       = 1
       month     = 15
       year      = 2019
       isHoliday = false
-      name =""
+      name      = ""
     },
     {
       day       = 1
       month     = 4
       year      = 2019
       isHoliday = false
-      name =""
+      name      = ""
     },
     {
       day       = 4
       month     = 7
       year      = 2019
       isHoliday = true
-      name ="4th of July"
+      name      = "4th of July"
     }
   ]
 }

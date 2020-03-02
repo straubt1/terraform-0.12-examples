@@ -50,19 +50,3 @@ resource "azurerm_subnet" "module" {
   name                 = var.subnets[count.index].name
   address_prefix       = var.subnets[count.index].address_prefix
 }
-
-# resource "azurerm_subnet" "module" {
-#   resource_group_name  = azurerm_resource_group.module.name
-#   virtual_network_name = azurerm_virtual_network.module.name
-#   for_each             = var.subnets
-#   name                 = each.name
-#   address_prefix       = each.address_prefix
-# }
-
-# output "subnets" {
-#   value = azurerm_subnet.module
-# }
-
-# output "subnets-address_prefix" {
-#   value = azurerm_subnet.module[*].address_prefix
-# }

@@ -8,7 +8,7 @@
 
 +++?image=slides/images/background-white.png
 
-@snap[montserrat-heavy h2-black]
+@snap[montserrat-heavy h2-white]
 ## @css[text-85](>= 0.12.0)
 @snapend
 
@@ -30,7 +30,7 @@ EOT
 
 +++?image=slides/images/background-white.png
 
-@snap[montserrat-heavy h2-black]
+@snap[montserrat-heavy h2-white]
 ## @css[text-85](>= 0.12.0)
 @snapend
 

@@ -9,22 +9,16 @@
 
 @snap[montserrat-heavy h2-black]
 ## @css[text-85](Helper Command)
-@snapend
 
-`terraform 0.12upgrade`
-
-@snap[]
 @ul
-- Re-writes configuration files
-- Identify constructs that need adjustment
-- Run on clean branch
+- Upgrade binary to Terraform v0.11.14
+- `terraform plan` -> No Changes
+- `terraform 0.12checklist`
+- Create new branch
+- Upgrade binary to Terraform v0.12.*
+- `terraform 0.12upgrade`
+- `terraform plan` -> No Changes
 @ulend
-@snapend
-
-+++?image=slides/images/background-white.png
-
-@snap[montserrat-heavy h2-black]
-## @css[text-85](Patience)
 @snapend
 
 Note:

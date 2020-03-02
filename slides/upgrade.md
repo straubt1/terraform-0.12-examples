@@ -8,7 +8,7 @@
 +++?image=slides/images/background-white.png
 
 @snap[montserrat-heavy h2-black]
-## @css[text-85](Helper Command)
+## @css[text-85](Helper Commands)
 
 @ul
 - Upgrade binary to Terraform v0.11.14

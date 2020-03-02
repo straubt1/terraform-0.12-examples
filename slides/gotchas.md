@@ -20,8 +20,7 @@
 @snap[montserrat-heavy h2-black]
 ## @css[text-85](Boolean Logic)
 
-@ul
-- `enabled = var.enabled == "true" ? "yes" : "no"`
-- `enabled = var.enabled == true ? "yes" : "no"`
-@ulend
+`enabled = var.enabled == "true" ? "yes" : "no"`
+`enabled = var.enabled == true ? "yes" : "no"`
+
 @snapend

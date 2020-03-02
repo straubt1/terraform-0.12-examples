@@ -21,6 +21,8 @@
 
 ---?include=slides/for-expressions.md
 
+---?include=slides/for-each-resources.md
+
 ---?include=slides/dynamic-blocks.md
 
 ---?include=slides/template-syntax.md
@@ -29,6 +31,6 @@
 
 ---?include=slides/gotchas.md
 
----?include=slides/coming-features.md
+<!-- ---?include=slides/coming-features.md -->
 
 ---?include=slides/closing.md

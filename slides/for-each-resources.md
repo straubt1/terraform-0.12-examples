@@ -9,7 +9,7 @@
 +++?image=slides/images/background-white.png
 
 @snap[montserrat-heavy h2-white]
-## @css[text-85](`for_each`)
+## @css[text-85](for_each)
 @snapend
 
 ```
